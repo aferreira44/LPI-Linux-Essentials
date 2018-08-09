@@ -7,7 +7,8 @@
 - Exam Objectives Version: Version 1.5
 - Exam Code: 010-150
 - About Objective Weights: Each objective is assigned a weighting value. The weights indicate the relative importance of each objective on the exam. Objectives with higher weights will be covered in the exam with more questions.
-
+- Max Points: 1000 (40 questions)
+- Min Points to Pass: 500 (20 questions)
 - Prerequisites: There are no prerequisites for this certification
 - Requirements: Passing the Linux Essentials 010 exam
 - Validity Period: Lifetime
